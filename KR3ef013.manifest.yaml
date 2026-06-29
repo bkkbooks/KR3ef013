@@ -1,0 +1,553 @@
+canonical_identifier: bkk:krp/KR3ef013/v1
+canonical_location: https://kanripo.org/bkk/KR3ef013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒來蘇集
+  identifiers:
+    krp: KR3ef013
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef013.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef013_001.yaml, hash: 'sha256:2c8c01689d8a4246e8477f7065b74381eccdba5cb7b38cf3c9ecadab5ec12bf6'}
+  - {seq: 2, filename: KR3ef013_002.yaml, hash: 'sha256:8ecb632bfe5eb74b41ea2bf5fab29b86e0a79ce876682a94914f92a8bf46599e'}
+  - {seq: 3, filename: KR3ef013_003.yaml, hash: 'sha256:64d3069d199d38a0bd1f324e336dd028365629df81f4ebe2e524572c9c441bd1'}
+  - {seq: 4, filename: KR3ef013_004.yaml, hash: 'sha256:4564facf0272fd734f9fa737be509f04befad484ef9e41eff9d3d23344e688d4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef013_001.markers.yaml, hash: 'sha256:7700594d59429ec3b8e2006eaf6d0fe2e3b633f5313336604cb707efc5e2bfea'}
+  - {seq: 2, role: markers, filename: assets/KR3ef013_002.markers.yaml, hash: 'sha256:be54e5cd07a0067cee7834c0e10064dd4ed58e3f1d909186ef1b8852329098e8'}
+  - {seq: 3, role: markers, filename: assets/KR3ef013_003.markers.yaml, hash: 'sha256:6308540f3331be6fa8617e623a3d67f488479430d581da91dce8f9cb9e9c47a5'}
+  - {seq: 4, role: markers, filename: assets/KR3ef013_004.markers.yaml, hash: 'sha256:cba4e8b383c051aa3ba3f2e832ba774666c62fcb02027b91bb62f7da8ebb50d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef013_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16909
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef013_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 3794
+  label: 傷寒總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef013_jc_001-d4d3
+    span:
+    - body
+    - 3794
+    - 6030
+  label: 太陽脈證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef013_jc_001-d4d4
+    span:
+    - body
+    - 6030
+    - 11402
+  label: 桂枝湯證上
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef013_jc_001-d4d5
+    span:
+    - body
+    - 11402
+    - 16909
+  label: 桂枝湯證下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 22764
+  label: 傷寒來蘇集卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d2
+    span:
+    - body
+    - 7
+    - 2845
+  label: 麻黃湯證上
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d3
+    span:
+    - body
+    - 2845
+    - 4815
+  label: 麻黃湯證下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d4
+    span:
+    - body
+    - 4815
+    - 5581
+  label: 葛根湯證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d5
+    span:
+    - body
+    - 5581
+    - 8466
+  label: 大青龍湯證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d6
+    span:
+    - body
+    - 8466
+    - 9249
+  label: 小青龍湯
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d7
+    span:
+    - body
+    - 9249
+    - 11358
+  label: 五苓散證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d8
+    span:
+    - body
+    - 11358
+    - 13925
+  label: 十棗湯證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d9
+    span:
+    - body
+    - 13925
+    - 16528
+  label: 瀉心湯證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d10
+    span:
+    - body
+    - 16528
+    - 18070
+  label: 抵當湯證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d11
+    span:
+    - body
+    - 18070
+    - 19718
+  label: 火逆諸證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef013_jc_002-d5d12
+    span:
+    - body
+    - 19718
+    - 22764
+  label: 痙溼暑證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 27614
+  label: 傷寒來蘇集卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d2
+    span:
+    - body
+    - 7
+    - 6632
+  label: 陽明脈證上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d3
+    span:
+    - body
+    - 6632
+    - 8840
+  label: 陽明脈證下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d4
+    span:
+    - body
+    - 8840
+    - 11781
+  label: 梔子豉湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d5
+    span:
+    - body
+    - 11781
+    - 13254
+  label: 瓜蒂散證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d6
+    span:
+    - body
+    - 13254
+    - 14778
+  label: 白虎湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d7
+    span:
+    - body
+    - 14778
+    - 15385
+  label: 茵陳湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d8
+    span:
+    - body
+    - 15385
+    - 19876
+  label: 承氣湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d9
+    span:
+    - body
+    - 19876
+    - 21026
+  label: 少陽脈證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d10
+    span:
+    - body
+    - 21026
+    - 25875
+  label: 柴胡湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d11
+    span:
+    - body
+    - 25875
+    - 26830
+  label: 建中湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d12
+    span:
+    - body
+    - 26830
+    - 27272
+  label: 黃連湯證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef013_jc_003-d6d13
+    span:
+    - body
+    - 27272
+    - 27614
+  label: 黃芩湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 19797
+  label: 傷寒來蘇集卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d2
+    span:
+    - body
+    - 7
+    - 1347
+  label: 太陰脈證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d3
+    span:
+    - body
+    - 1347
+    - 1796
+  label: 三白散證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d4
+    span:
+    - body
+    - 1796
+    - 4278
+  label: 少陰脈證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d5
+    span:
+    - body
+    - 4278
+    - 5354
+  label: 麻黃附子證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d6
+    span:
+    - body
+    - 5354
+    - 5704
+  label: 附子湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d7
+    span:
+    - body
+    - 5704
+    - 6901
+  label: 真武湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d8
+    span:
+    - body
+    - 6901
+    - 7526
+  label: 桃花湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d9
+    span:
+    - body
+    - 7526
+    - 9364
+  label: 四逆湯證上
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d10
+    span:
+    - body
+    - 9364
+    - 10746
+  label: 四逆湯證下
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d11
+    span:
+    - body
+    - 10746
+    - 11154
+  label: 白通湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d12
+    span:
+    - body
+    - 11154
+    - 11482
+  label: 黃連阿膠湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d13
+    span:
+    - body
+    - 11482
+    - 12145
+  label: 豬苓湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d14
+    span:
+    - body
+    - 12145
+    - 12730
+  label: 豬膚湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d15
+    span:
+    - body
+    - 12730
+    - 13287
+  label: 四逆散證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d16
+    span:
+    - body
+    - 13287
+    - 14152
+  label: 厥陰脈證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d17
+    span:
+    - body
+    - 14152
+    - 14773
+  label: 烏梅丸證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d18
+    span:
+    - body
+    - 14773
+    - 15463
+  label: 白頭翁證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d19
+    span:
+    - body
+    - 15463
+    - 17256
+  label: 熱厥利證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d20
+    span:
+    - body
+    - 17256
+    - 18301
+  label: 復脈湯證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d21
+    span:
+    - body
+    - 18301
+    - 18615
+  label: 陰陽易證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef013_jc_004-d7d22
+    span:
+    - body
+    - 18615
+    - 19797
+  label: 諸寒熱證
+  type: section
+  level: 2
+hash: sha256:a8de337cefc365a27f4c48d2b7f35e284135fd0d004f16a1f8a30dee7a4f38eb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
