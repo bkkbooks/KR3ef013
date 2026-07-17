@@ -23,7 +23,7 @@ assets:
   - {seq: 4, filename: KR3ef013_004-jc.yaml, hash: 'sha256:9d27f28181e746bbbfd559aa01870e2618d3c9a5f7fed92df6564e736fe625cd'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ef013_001-jc.markers.yaml, hash: 'sha256:1f3d4fd9b42d90da63859a72be6b180bd9e4338070bd9d24ff232be3f685236c'}
-  - {seq: 2, role: markers, filename: assets/KR3ef013_002-jc.markers.yaml, hash: 'sha256:4b2130786c6395e4cab4bbccf26b5b05bdaa56e9e8b71e0051d4ead989907371'}
+  - {seq: 2, role: markers, filename: assets/KR3ef013_002-jc.markers.yaml, hash: 'sha256:86ae8d156a55dadd1057271606424b7ae149986402adb311d44c234bd03e8e71'}
   - {seq: 3, role: markers, filename: assets/KR3ef013_003-jc.markers.yaml, hash: 'sha256:09595e3656e9a2ffabf458ca5162d9bd50903c99447256d81eb199b6ce4510c5'}
   - {seq: 4, role: markers, filename: assets/KR3ef013_004-jc.markers.yaml, hash: 'sha256:f164926aa9bbdb0b7308221b35c8b1605592a8b8fa0d8a2655c260da8735e847'}
 table_of_contents:
@@ -547,4 +547,4 @@ table_of_contents:
   label: 諸寒熱證
   type: section
   level: 2
-hash: sha256:990686d8d2e2ef2e9eda40fa2db3ec21c7fd0b6d824b1c5f9a1ffaa5b946f851
+hash: sha256:2607b73acb175a019abed8a4aa15b34bcd1f54e5eec9267055826858603b82f2
